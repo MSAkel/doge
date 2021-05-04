@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MSAkel/doge.git/static/css/main.0cb2cec9.chunk.css",
+    "main.js": "/MSAkel/doge.git/static/js/main.bdf4a144.chunk.js",
+    "main.js.map": "/MSAkel/doge.git/static/js/main.bdf4a144.chunk.js.map",
+    "runtime-main.js": "/MSAkel/doge.git/static/js/runtime-main.643bfd05.js",
+    "runtime-main.js.map": "/MSAkel/doge.git/static/js/runtime-main.643bfd05.js.map",
+    "static/js/2.b5ca71a5.chunk.js": "/MSAkel/doge.git/static/js/2.b5ca71a5.chunk.js",
+    "static/js/2.b5ca71a5.chunk.js.map": "/MSAkel/doge.git/static/js/2.b5ca71a5.chunk.js.map",
+    "static/js/3.e2cb03c4.chunk.js": "/MSAkel/doge.git/static/js/3.e2cb03c4.chunk.js",
+    "static/js/3.e2cb03c4.chunk.js.map": "/MSAkel/doge.git/static/js/3.e2cb03c4.chunk.js.map",
+    "index.html": "/MSAkel/doge.git/index.html",
+    "static/css/main.0cb2cec9.chunk.css.map": "/MSAkel/doge.git/static/css/main.0cb2cec9.chunk.css.map",
+    "static/js/2.b5ca71a5.chunk.js.LICENSE.txt": "/MSAkel/doge.git/static/js/2.b5ca71a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.643bfd05.js",
+    "static/js/2.b5ca71a5.chunk.js",
+    "static/css/main.0cb2cec9.chunk.css",
+    "static/js/main.bdf4a144.chunk.js"
+  ]
+}
